@@ -28,7 +28,7 @@ class SettingViewController: UITableViewController, MFMailComposeViewControllerD
             composer.mailComposeDelegate = self
 
             // Uncomment if you need to set a default email
-            // composer.setToRecipients(["<your email>"])
+             composer.setToRecipients(["nantog@gmail.com"])
             //composer.navigationBar.tintColor = UIColor.whiteColor()
             
             presentViewController(composer, animated: true, completion: {

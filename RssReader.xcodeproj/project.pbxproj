@@ -86,7 +86,7 @@
 		B8CD65F2A9EEE08D3397AAC3 /* Pods-RssReaderTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RssReaderTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RssReaderTests/Pods-RssReaderTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E1EE897E20554EF217F77F43 /* libPods-RssReader.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RssReader.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F219FD0E1A21D2680028EF72 /* DropdownMenuItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DropdownMenuItem.swift; path = ../DropdownMenuItem.swift; sourceTree = "<group>"; };
-		F25377191A1E149D008B1171 /* RssReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RssReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F25377191A1E149D008B1171 /* Dev Feed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dev Feed.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F253771D1A1E149D008B1171 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F253771E1A1E149D008B1171 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F25377231A1E149D008B1171 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -228,7 +228,7 @@
 		F253771A1A1E149D008B1171 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F25377191A1E149D008B1171 /* RssReader.app */,
+				F25377191A1E149D008B1171 /* Dev Feed.app */,
 				F253772E1A1E149D008B1171 /* RssReaderTests.xctest */,
 			);
 			name = Products;
@@ -508,7 +508,7 @@
 			);
 			name = RssReader;
 			productName = RssReader;
-			productReference = F25377191A1E149D008B1171 /* RssReader.app */;
+			productReference = F25377191A1E149D008B1171 /* Dev Feed.app */;
 			productType = "com.apple.product-type.application";
 		};
 		F253772D1A1E149D008B1171 /* RssReaderTests */ = {
@@ -911,8 +911,8 @@
 				INFOPLIST_FILE = RssReader/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.antonnovoselov.iosfeed;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.antonnovoselov.devfeed;
+				PRODUCT_NAME = "Dev Feed";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "SupportingFiles/RssReader-Bridging-Header.h";
 				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "RssReader/SupportingFiles/RssReader-Bridging-Header.h";
@@ -947,8 +947,8 @@
 				INFOPLIST_FILE = RssReader/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.antonnovoselov.iosfeed;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.antonnovoselov.devfeed;
+				PRODUCT_NAME = "Dev Feed";
 				PROVISIONING_PROFILE = "";
 				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "RssReader/SupportingFiles/RssReader-Bridging-Header.h";
 				SWIFT_VERSION = 2.3;

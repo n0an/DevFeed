@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Theme</key>
-	<string>light</string>
+	<string>dark</string>
 	<key>DropdownMenu</key>
-	<true/>
+	<false/>
 	<key>HomeScreenAdsEnabled</key>
 	<false/>
 	<key>DetailViewAdsEnabled</key>
@@ -24,237 +24,129 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Wired</string>
+			<string>Apple Developer News</string>
 			<key>url</key>
-			<string>http://feeds.wired.com/wired/index</string>
+			<string>http://developer.apple.com/news/rss/news.rss</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Design</string>
+			<string>RayWenderlich</string>
 			<key>url</key>
-			<string>CategoryFeed</string>
+			<string>https://www.raywenderlich.com/feed</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>TechInAsia</string>
+			<string>AppCoda</string>
 			<key>url</key>
-			<string>https://www.techinasia.com/feed/</string>
+			<string>http://feeds.feedburner.com/appcoda</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Startups</string>
+			<string>iOS Dev Weekly</string>
 			<key>url</key>
-			<string>CategoryFeed</string>
+			<string>http://feeds.feedburner.com/iosdevweekly</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Techcrunch</string>
+			<string>Realm</string>
 			<key>url</key>
-			<string>http://feeds.feedburner.com/TechCrunch/</string>
+			<string>http://feeds.feedburner.com/realmio</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>The Verge</string>
+			<string>Swift.org</string>
 			<key>url</key>
-			<string>http://www.theverge.com/rss/index.xml</string>
+			<string>https://swift.org/atom.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Macworld</string>
+			<string>Swift Weekly Brief</string>
 			<key>url</key>
-			<string>http://www.macworld.com/index.rss</string>
+			<string>http://swiftweekly.github.io/feed.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Computer World</string>
+			<string>NSHipster</string>
 			<key>url</key>
-			<string>http://www.computerworld.com/index.rss</string>
+			<string>http://nshipster.com/feed.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Inc.com</string>
+			<string>The Big Nerd Ranch</string>
 			<key>url</key>
-			<string>http://feeds.inc.com/home/updates?format=xml</string>
+			<string>http://feeds.feedburner.com/bignerdranch</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CNet News</string>
+			<string>FATAL ERROR</string>
 			<key>url</key>
-			<string>http://www.cnet.com/rss/news/</string>
+			<string>http://fatalerror.fm/episodes?format=RSS</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mashable</string>
+			<string>swifting.io</string>
 			<key>url</key>
-			<string>http://feeds.mashable.com/Mashable</string>
+			<string>https://swifting.io/feed/</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Re/code</string>
+			<string>Use Your Loaf</string>
 			<key>url</key>
-			<string>http://recode.net/feed/</string>
+			<string>http://useyourloaf.com/blog/rss.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>TheTechBlock</string>
+			<string>Inessential</string>
 			<key>url</key>
-			<string>http://feedpress.me/thetechblock</string>
+			<string>http://inessential.com/xml/rss.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Quartz</string>
+			<string>Cocoa With Love</string>
 			<key>url</key>
-			<string>http://qz.com/feed/</string>
+			<string>https://www.cocoawithlove.com/feed.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Slashgear</string>
+			<string>Ole Begemann</string>
 			<key>url</key>
-			<string>http://feeds.slashgear.com/slashgear?format=xml</string>
+			<string>https://oleb.net/blog/atom.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Arstechnica</string>
+			<string>Merowing</string>
 			<key>url</key>
-			<string>http://arstechnica.com/feed/</string>
+			<string>http://merowing.info/index.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Gizmodo</string>
+			<string>iOS Tools</string>
 			<key>url</key>
-			<string>http://feeds.gawker.com/gizmodo/full?format=xml</string>
+			<string>https://maniacdev.com/feed</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZDNet</string>
+			<string>The iOS Times</string>
 			<key>url</key>
-			<string>http://www.zdnet.com/blog/rss.xml</string>
+			<string>http://theiostimes.com/feed.xml</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>TechRadar</string>
+			<string>Releasenotes</string>
 			<key>url</key>
-			<string>http://feeds.feedburner.com/techradar/allnews?format=xml</string>
+			<string>http://releasenotes.tv/feed/podcast/</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Lifehack</string>
+			<string>NSBlog</string>
 			<key>url</key>
-			<string>http://feeds.lifehack.org/Lifehack</string>
+			<string>https://www.mikeash.com/pyblog/rss.py?mode=fulltext</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Lifehacker</string>
+			<string>Quality Coding</string>
 			<key>url</key>
-			<string>http://feeds.gawker.com/lifehacker/full#_ga=1.229767580.1417873084.1434605533?format=xml</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ProBlogger</string>
-			<key>url</key>
-			<string>http://feeds.feedburner.com/ProbloggerHelpingBloggersEarnMoney</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PanX.asia</string>
-			<key>url</key>
-			<string>https://panx.asia/feed</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TheNextWeb</string>
-			<key>url</key>
-			<string>http://feeds2.feedburner.com/thenextweb?format=xml</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Kickstarter</string>
-			<key>url</key>
-			<string>https://www.kickstarter.com/projects/feed.atom</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Economist</string>
-			<key>url</key>
-			<string>http://www.economist.com/sections/science-technology/rss.xml</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>QuickSprout</string>
-			<key>url</key>
-			<string>http://feeds2.feedburner.com/quicksprout?format=xml</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Engadget中文版</string>
-			<key>url</key>
-			<string>http://chinese.engadget.com/rss.xml</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TechOrange</string>
-			<key>url</key>
-			<string>http://buzzorange.com/techorange/feed/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>立場新聞</string>
-			<key>url</key>
-			<string>https://www.thestandnews.com/rss/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sugarada</string>
-			<key>url</key>
-			<string>http://www.sugarada.com/feed</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>StartupBeat</string>
-			<key>url</key>
-			<string>http://startupbeat.hkej.com/?feed=rss2</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>天下雜誌</string>
-			<key>url</key>
-			<string>http://www.cw.com.tw/RSS/cw_content.xml</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>BuzzOrange</string>
-			<key>url</key>
-			<string>http://buzzorange.com/feed/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Unwire</string>
-			<key>url</key>
-			<string>http://www.unwire.hk/feed</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Google News</string>
-			<key>url</key>
-			<string>https://news.google.com/news?cf=all&amp;hl=en&amp;pz=1&amp;ned=us&amp;topic=tc&amp;output=rss</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Heroichollywood</string>
-			<key>url</key>
-			<string>http://heroichollywood.com/home-1?format=RSS</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Newsgroup</string>
-			<key>url</key>
-			<string>http://www.reduser.net/forum/external.php?type=RSS2&amp;forumids=19</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tinkoff Journal</string>
-			<key>url</key>
-			<string>http://journal.tinkoff.ru/feed/</string>
+			<string>http://feeds.feedburner.com/qualitycoding</string>
 		</dict>
 	</array>
 	<key>CategoryFeeds</key>
